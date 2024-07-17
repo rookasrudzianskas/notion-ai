@@ -1,9 +1,10 @@
 import Image from "next/image";
+import {Button} from "@/components/ui/button";
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen">
-      Build your own Notion clone with Next.js
+    <main className="">
+      <Button>Click me</Button>
     </main>
   );
 }
