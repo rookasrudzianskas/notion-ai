@@ -15,7 +15,7 @@ const Sidebar = ({}) => {
     <>
       <NewDocumentButton />
       {/*   My documents */}
-
+      {/*   Shared with me */}
       {/*  Shared with me */}
     </>
   );
